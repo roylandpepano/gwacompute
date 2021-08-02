@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/blogger_96px.png</file>
+    <file>icons/facebook_96px.png</file>
+    <file>icons/Instagram logo_96px.png</file>
+    <file>icons/twitter_96px.png</file>
+    <file>icons/cat-1.png</file>
+    <file>icons/macbook_medal_96px.png</file>
+    <file>icons/info_squared_96px.png</file>
+    <file>icons/minimize_window_96px.png</file>
+    <file>icons/close_window_96px.png</file>
+    <file>icons/categorize_96px.png</file>
+  </qresource>
+</RCC>
